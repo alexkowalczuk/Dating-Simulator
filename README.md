@@ -3,6 +3,7 @@
 #### May 12, 2021
 #### Project links (Adobe XD & xarts):
 https://xd.adobe.com/view/96bc4ba2-0f3e-4b5c-80dd-e56c6b529a32-c3ef/
+http://xarts.usfca.edu/~akowalczuk/Project03/
 
 ### Overview
 Project 3 for Interaction Design course at the University of San Francisco. This project is about speculative technology - Dating Simulator. Player is in the 'virtual world' and gets theirs random matches, and chave choice to interact/chat with them. Everything depends of what they will answer and what rating they will going to get. I made sure its very clear and as easy and possible to navigate around project. 
