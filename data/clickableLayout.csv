@@ -1,0 +1,27 @@
+ID,Name,State,PNGFilename,Text,x,y,visible
+0,Start,,,,,,
+1,Continue,Profile,,CONTINUE,1000,620,yes
+2,EnterChat,Matches,,Enter Chat,515,625,yes
+3,Monica,Chat-Main,,MONICA,375,625,yes
+4,Peter,Chat-Main,,PETER,700,625,yes
+5,MAns1,MonicaChat1,assets/M-Ans1.png,,70,510,yes
+6,MAns2,MonicaChat1,assets/M-Ans2.png,,490,510,yes
+7,MAns3,MonicaChat1,assets/M-Ans3.png,,900,510,yes
+8,ContinueM1,Homeless,,CONTINUE,515,625,yes
+9,ContinueM2,Accountant,,CONTINUE,515,625,yes
+10,ContinueM3,Rich,,CONTINUE,515,625,yes
+11,MAns4,MonicaChat2,assets/M-Ans4.png,,70,510,yes
+12,MAns5,MonicaChat2,assets/M-Ans5.png,,490,510,yes
+13,MAns6,MonicaChat2,assets/M-Ans6.png,,900,510,yes
+14,ContinueM4,Date1,,CONTINUE,515,625,yes
+15,ContinueM5,Date2,,CONTINUE,515,625,yes
+16,PAns1,PeterChat1,assets/P-Ans1.png,,70,510,yes
+17,PAns2,PeterChat1,assets/P-Ans2.png,,490,510,yes
+18,PAns3,PeterChat1,assets/P-Ans3.png,,900,510,yes
+19,ContinueP1,Cat,,CONTINUE,515,625,yes
+20,ContinueP2,Dog,,CONTINUE,515,625,yes
+21,ContinueP3,Wrong,,CONTINUE,515,625,yes
+22,PAns4,PeterChat2,assets/P-Ans4.png,,250,510,yes
+23,PAns5,PeterChat2,assets/P-Ans5.png,,700,510,yes
+24,ContinueP4,Date,,CONTINUE,515,625,yes
+25,ContinueP5,NotDate,,CONTINUE,515,625,yes
