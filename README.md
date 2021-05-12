@@ -1,8 +1,10 @@
 # Project03: Dating Simulator
 ## By: Alex Kowalczuk
 #### May 12, 2021
-#### Project links (Adobe XD & xarts):
+#### Project links
+##### Adobe XD:
 https://xd.adobe.com/view/96bc4ba2-0f3e-4b5c-80dd-e56c6b529a32-c3ef/
+##### xarts:
 http://xarts.usfca.edu/~akowalczuk/Project03/
 
 ### Overview
